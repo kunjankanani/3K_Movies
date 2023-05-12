@@ -1,7 +1,7 @@
 # 3K-Showtime
 
-## demo
-https://kunjankanani.github.io/3K-Showtime/
+## Demo
+  👉 https://kunjankanani.github.io/3K-Showtime/
 
 <b>Note :- website under development</b>
 
